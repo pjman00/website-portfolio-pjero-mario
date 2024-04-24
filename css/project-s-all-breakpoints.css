@@ -1,0 +1,2998 @@
+/* screen - project-l */
+
+.project-l {
+  align-items: center;
+  background-color: var(--main-white);
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  min-width: 1510px;
+  position: relative;
+}
+
+.project-l .livello_1:hover {
+  transform: scale(1.1);
+}
+
+.project-l .project-5 {
+  color: var(--main-white);
+  cursor: pointer;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  letter-spacing: -0.75px;
+  line-height: 30.0px;
+  margin-top: -1.00px;
+  position: relative;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.project-l .project-5:hover {
+  transform: scale(1.1);
+}
+
+.project-l .about-1 {
+  cursor: pointer;
+  letter-spacing: -0.75px;
+  line-height: 30.0px;
+  margin-top: -1.00px;
+  position: relative;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.project-l .about-1:hover {
+  transform: scale(1.1);
+}
+
+.project-l .icon-mail-1:hover {
+  transform: scale(1.1);
+}
+
+.project-l .frame-project-l {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  padding: 70px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .body {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .bread-crumb-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 98px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .frame-534 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.project-l .project-6 {
+  cursor: pointer;
+  height: 22px;
+  position: relative;
+  width: 47px;
+}
+
+.project-l .project-7 {
+  color: var(--main-gray);
+  cursor: pointer;
+  font-weight: 400;
+  left: -90px;
+  line-height: 21.9px;
+  position: absolute;
+  text-decoration: underline;
+  top: -1px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.project-l .project-7:hover {
+  color: #090909
+}
+
+.project-l .text-5 {
+  color: var(--main-black);
+  font-weight: 500;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.project-l .project-8 {
+  height: 22px;
+  position: relative;
+  width: 49px;
+}
+
+.project-l .about-2 {
+  left: 0;
+  letter-spacing: -0.54px;
+  line-height: 21.9px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.project-l .body-frame-intern {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 180px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .headline-frame {
+  flex-direction: column;
+  gap: 33px;
+}
+
+.project-l .headline-1 {
+  justify-content: space-between;
+}
+
+.project-l .title-3 {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: 70px;
+  font-weight: 500;
+  height: 129px;
+  letter-spacing: -2.10px;
+  line-height: 68.0px;
+  width: 395.38px;
+}
+
+.project-l .graphic-ux-ui-designer-freelance-2 {
+  color: transparent;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 111px;
+  letter-spacing: -1.80px;
+  line-height: 70.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: 636.99px;
+}
+
+.project-l .span0-2 {
+  color: var(--main-gray);
+  letter-spacing: -1.08px;
+}
+
+.project-l .span1-2 {
+  color: var(--black);
+  letter-spacing: -1.08px;
+}
+
+.project-l .icon {
+  height: 54.04px;
+  position: relative;
+  width: 49.9px;
+}
+
+.project-l .project-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 150px;
+  padding: 0px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .di-paola {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .text-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .title-2 {
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  width: 389px;
+}
+
+.project-l .span-5 {
+  letter-spacing: -1.08px;
+}
+
+.project-l .frame-p {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 50px;
+  position: relative;
+}
+
+.project-l .p {
+  flex: 1;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.project-l .seperator-2 {
+  align-self: stretch;
+  height: 1.5px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .frame-9 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  justify-content: center;
+  position: relative;
+  width: 1142px;
+}
+
+.project-l .frame-3-1 {
+  align-items: flex-start;
+  border-radius: 74px;
+  display: flex;
+  gap: 43px;
+  height: 350px;
+  justify-content: center;
+  position: relative;
+  width: 1142px;
+}
+
+.project-l .thumbnail-63 {
+  background-color: var(--gray);
+  border-radius: 225px;
+  height: 350px;
+  position: relative;
+  width: 350px;
+}
+
+.project-l .frame-648 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 350px;
+  justify-content: center;
+  position: relative;
+  width: 749px;
+}
+
+.project-l .thumbnail-64 {
+  height: 350px;
+  object-fit: cover;
+  position: relative;
+  width: 749px;
+}
+
+.project-l .frame-10 {
+  align-items: flex-start;
+  border-radius: 74px;
+  display: flex;
+  gap: 43px;
+  height: 365px;
+  justify-content: center;
+  position: relative;
+  width: 1142px;
+}
+
+.project-l .frame-6-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 365px;
+  justify-content: center;
+  position: relative;
+  width: 734px;
+}
+
+.project-l .thumbnail-60 {
+  height: 365px;
+  object-fit: cover;
+  position: relative;
+  width: 734px;
+}
+
+.project-l .thumbnail-65 {
+  background-color: var(--masala);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .thumbnail-66 {
+  background-color: var(--mine-shaft);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .frame-710-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 57px;
+  position: relative;
+}
+
+.project-l .frame-709-2 {
+  align-items: flex-start;
+  border: 2px solid;
+  border-color: var(--main-black);
+  border-radius: 80px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  overflow: hidden;
+  padding: 50px 70px;
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+.project-l .frame-709-2:hover {
+  transform: scale(1.1);
+}
+
+.project-l .frame-705-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.project-l .frame-704-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+}
+
+.project-l .frame-702-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 19px;
+  justify-content: center;
+  position: relative;
+}
+
+.project-l .guarda-il-progetto-c-2 {
+  cursor: pointer;
+  letter-spacing: -0.90px;
+  line-height: 36.5px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.project-l .span-6 {
+  letter-spacing: -0.27px;
+}
+
+.project-l .divide-icon {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 47px;
+  position: relative;
+}
+
+.project-l .ellipse-2-3 {
+  background-color: var(--main-black);
+  border-radius: 10.5px;
+  height: 21px;
+  position: relative;
+  width: 21px;
+}
+
+.project-l .sunne-project {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .text-fram {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 150px;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .text {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 100px;
+  position: relative;
+}
+
+.project-l .title-4 {
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  width: 348px;
+}
+
+.project-l .photo-porject-frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 45px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .thumbnail-67 {
+  background-color: var(--persian-blue);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .frame-65 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.project-l .thumbnail-68 {
+  background-color: var(--new-car);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .thumbnail-69 {
+  background-color: var(--havelock-blue);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .thumbnail-70 {
+  background-color: var(--magic-potion);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .puglia-engineering-project {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .thumbnail-71 {
+  background-color: var(--ship-gray);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .frame-11 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 8px;
+  height: 365px;
+  justify-content: center;
+  position: relative;
+}
+
+.project-l .thumbnail-72 {
+  background-color: var(--eerie-black);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .thumbnail-73 {
+  background-color: var(--gravel);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .easy-water-project {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .title-5 {
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  width: 283px;
+}
+
+.project-l .thumbnail-61 {
+  background-color: var(--san-juan);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .thumbnail-74 {
+  background-color: var(--steel-blue);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .po-pot-project {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .title-6 {
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  width: 398px;
+}
+
+.project-l .photo-project {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 1185px;
+  justify-content: space-between;
+  position: relative;
+  width: 1142px;
+}
+
+.project-l .thumbnail-75 {
+  background-color: var(--christine);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .thumbnail-76 {
+  background-color: var(--biscay);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .thumbnail-77 {
+  background-color: var(--crater-brown);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .date-x-project {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .title-7 {
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  width: 303px;
+}
+
+.project-l .thumbnail-62 {
+  background-color: var(--ocean-blue-pearl);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .frame-644 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 365px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .thumbnail-78 {
+  background-color: var(--turquoise);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .eco-dream-project {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .title-8 {
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  width: 249px;
+}
+
+.project-l .frame-74 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 45px;
+  position: relative;
+  width: 1142px;
+}
+
+.project-l .thumbnail-79 {
+  background-color: #3d503a;
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .frame-510 {
+  align-items: center;
+  background-color: #3d503a;
+  border-radius: 225px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 363px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 21px 243px;
+  position: relative;
+  width: 734px;
+}
+
+.project-l .i-phone-16 {
+  height: 321px;
+  margin-left: -76.00px;
+  margin-right: -76.00px;
+  object-fit: cover;
+  position: relative;
+  width: 400px;
+}
+
+.project-l .frame-513 {
+  align-items: center;
+  background-color: #093923;
+  border-radius: 225px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 363px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 13px 218px;
+  position: relative;
+  width: 734px;
+}
+
+.project-l .i-phone-13-pro {
+  height: 337px;
+  margin-left: -76.00px;
+  margin-right: -76.00px;
+  object-fit: cover;
+  position: relative;
+  width: 450px;
+}
+
+.project-l .thumbnail-80 {
+  background-color: #093923;
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .thumbnail-81 {
+  background-color: #ca8456;
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .frame-514 {
+  align-items: center;
+  background-color: #ca8456;
+  border-radius: 225px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 363.16px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 46px 241px;
+  position: relative;
+  width: 734px;
+}
+
+.project-l .mac-studio {
+  height: 271.16px;
+  margin-left: -100.51px;
+  margin-right: -100.51px;
+  position: relative;
+  width: 453.02px;
+}
+
+.project-l .frame-517 {
+  align-items: center;
+  background-color: #fffffe;
+  border-radius: 225px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 339px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 13px 111px;
+  position: relative;
+  width: 734px;
+}
+
+.project-l .screenshot-2024-04-15-alle-1639-1 {
+  height: 313px;
+  margin-left: -76.00px;
+  margin-right: -76.00px;
+  object-fit: cover;
+  position: relative;
+  width: 664px;
+}
+
+.project-l .thumbnail-82 {
+  background-color: var(--main-black);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .project-sutdio-lupoli {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .title-9 {
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  width: 221px;
+}
+
+.project-l .thumbnail-83 {
+  background-color: var(--hippie-blue);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .thumbnail-84 {
+  background-color: var(--chambray);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .thumbnail-85 {
+  background-color: var(--wedgewood);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .studio-schena-project {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .title-10 {
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  width: 345px;
+}
+
+.project-l .thumbnail-86 {
+  background-color: var(--picton-blue);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .thumbnail-87 {
+  background-color: var(--cream-can);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .thumbnail-88 {
+  background-color: var(--astral);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .pigmento-project {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .title-11 {
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  width: 423px;
+}
+
+.project-l .thumbnail-89 {
+  background-color: var(--bastille);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .thumbnail-90 {
+  background-color: var(--celeste);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .thumbnail-91 {
+  background-color: var(--fuscous-gray);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .madame-project {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .title-12 {
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  width: 370px;
+}
+
+.project-l .thumbnail-92 {
+  background-color: var(--russett);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .thumbnail-93 {
+  background-color: var(--just-right);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .thumbnail-94 {
+  background-color: var(--copper-penny);
+  border-radius: 225px;
+  height: 365px;
+  position: relative;
+  width: 365px;
+}
+
+.project-l .seguimi-frame-scroll-up {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .scroll-up-icon-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+.project-l .scroll-up-icon-1:hover {
+  transform: scale(1.1);
+}
+
+.project-l .ellipse-6-1 {
+  background-color: var(--main-black);
+  border-radius: 44px;
+  height: 88px;
+  position: relative;
+  width: 88px;
+}
+
+.project-l .image-2 {
+  height: 38px;
+  left: 22px;
+  position: absolute;
+  top: 25px;
+  width: 43px;
+}
+
+.project-l .seguimi-frame-1 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 57px;
+  position: relative;
+  width: 1342px;
+}
+
+.project-l .seguimi-su-1 {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  letter-spacing: -1.80px;
+  line-height: 58.3px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.project-l .social-frame-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 108px;
+  position: relative;
+}
+
+.project-l .link-2 {
+  cursor: pointer;
+  letter-spacing: -1.20px;
+  line-height: 48.0px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.project-l .link-2:hover {
+  color: #181717
+}
+
+.project-l .footer-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--main-black);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 180px;
+  padding: 80px 83px;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .headline {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.project-l .icon-link {
+  height: 28.99px;
+  margin-left: -2.00px;
+  position: relative;
+  width: 54px;
+}
+
+.project-l .icon-nav-arrow-down {
+  height: 65.84px;
+  margin-top: -6.58px;
+  position: relative;
+  width: 118.5px;
+}
+
+.project-l .p-11 {
+  flex: 1;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.project-l .photo-project-7 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 45px;
+  position: relative;
+  width: 1142px;
+}
+
+.project-l .title {
+  margin-top: -1.00px;
+  position: relative;
+}
+/* screen - project-m */
+
+.project-m {
+  align-items: center;
+  background-color: var(--main-white);
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  min-width: 943px;
+  position: relative;
+}
+
+.project-m .logo {
+  cursor: pointer;
+  height: 22px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 16.8px;
+}
+
+.project-m .logo:hover {
+  transform: scale(1.1);
+}
+
+.project-m .project {
+  cursor: pointer;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.project-m .about {
+  cursor: pointer;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.project-m .about:hover {
+  transform: scale(1.1);
+}
+
+.project-m .icon-mail:hover {
+  transform: scale(1.1);
+}
+
+.project-m .frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+  width: 100%;
+}
+
+.project-m .frame-519 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  justify-content: center;
+  padding: 0px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.project-m .bread-crumb {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.project-m .project-1 {
+  cursor: pointer;
+  height: 22px;
+  position: relative;
+  width: 47px;
+}
+
+.project-m .project-2 {
+  color: var(--main-gray);
+  cursor: pointer;
+  font-weight: 400;
+  left: 0;
+  line-height: 21.9px;
+  position: absolute;
+  text-decoration: underline;
+  top: -1px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.project-m .project-2:hover {
+  color: #000000
+}
+
+.project-m .text-4 {
+  color: var(--main-black);
+  font-weight: 500;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.project-m .project-3 {
+  height: 22px;
+  position: relative;
+  width: 60px;
+}
+
+.project-m .project-4 {
+  left: 0;
+  letter-spacing: -0.54px;
+  line-height: 21.9px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.project-m .frame-518 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.project-m .frame-70 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 180px;
+  position: relative;
+  width: 100%;
+}
+
+.project-m .headline {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 33px;
+  position: relative;
+  width: 100%;
+}
+
+.project-m .frame-647 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.project-m .my-project {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: 35px;
+  font-weight: 500;
+  height: 129px;
+  letter-spacing: -1.05px;
+  line-height: 34.0px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 209.5px;
+}
+
+.project-m .graphic-ux-ui-designer-freelance {
+  color: transparent;
+  font-family: var(--font-family-dm_sans);
+  font-size: 35px;
+  font-weight: 400;
+  height: 111px;
+  letter-spacing: -1.05px;
+  line-height: 40.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: 337.53px;
+}
+
+.project-m .span0 {
+  color: var(--main-gray);
+  letter-spacing: -0.37px;
+}
+
+.project-m .span1 {
+  color: var(--black);
+  letter-spacing: -0.37px;
+}
+
+.project-m .frame-578 {
+  height: 54.04px;
+  position: relative;
+  width: 46px;
+}
+
+.project-m .frame-6 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 150px;
+  position: relative;
+  width: 100%;
+}
+
+.project-m .frame-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  position: relative;
+  width: 100%;
+}
+
+.project-m .title {
+  align-self: stretch;
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .span {
+  letter-spacing: -1.08px;
+}
+
+.project-m .span-1 {
+  color: var(--main-black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  letter-spacing: -1.08px;
+}
+
+.project-m .studio-di-paola-arch {
+  align-self: stretch;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .seperator {
+  align-self: stretch;
+  height: 1.5px;
+  position: relative;
+  width: 100%;
+}
+
+.project-m .frame-2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 45px;
+  position: relative;
+  width: 674px;
+}
+
+.project-m .frame-3 {
+  align-items: flex-start;
+  border-radius: 74px;
+  display: flex;
+  gap: 43px;
+  height: 200px;
+  justify-content: center;
+  position: relative;
+  width: 674px;
+}
+
+.project-m .thumbnail-3 {
+  background-color: var(--gray);
+}
+
+.project-m .thumbnail {
+  height: 200px;
+  object-fit: cover;
+  position: relative;
+  width: 431px;
+}
+
+.project-m .thumbnail-4 {
+  background-color: var(--masala);
+}
+
+.project-m .thumbnail-5 {
+  background-color: var(--mine-shaft);
+}
+
+.project-m .frame-710 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 37px;
+  position: relative;
+}
+
+.project-m .icon-nav-arrow-down {
+  height: 50.67px;
+  margin-top: -6.58px;
+  position: relative;
+  width: 88.17px;
+}
+
+.project-m .frame-709 {
+  align-items: flex-start;
+  border: 2px solid;
+  border-color: var(--main-black);
+  border-radius: 80px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  overflow: hidden;
+  padding: 30px 50px;
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+.project-m .frame-709:hover {
+  transform: scale(1.1);
+}
+
+.project-m .frame-705 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.project-m .frame-704 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+}
+
+.project-m .frame-702 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 19px;
+  justify-content: center;
+  position: relative;
+}
+
+.project-m .icon-link {
+  height: 17.99px;
+  margin-left: -1.50px;
+  position: relative;
+  width: 33px;
+}
+
+.project-m .guarda-il-progetto-c {
+  cursor: pointer;
+  letter-spacing: -0.54px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.project-m .span-2 {
+  letter-spacing: -0.10px;
+}
+
+.project-m .frame-6-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 47px;
+  position: relative;
+}
+
+.project-m .ellipse-2 {
+  border-radius: 10.5px;
+  height: 21px;
+  width: 21px;
+}
+
+.project-m .frame-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 150px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.project-m .frame-621-3 {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  gap: 60px;
+}
+
+.project-m .x02-sunne-empower-the-ocean {
+  align-self: stretch;
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .il-logo-realizzato-p {
+  align-self: stretch;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .frame-67 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 106px;
+  position: relative;
+  width: 674px;
+}
+
+.project-m .frame-68-2 {
+  gap: 45px;
+}
+
+.project-m .thumbnail-6 {
+  background-color: var(--persian-blue);
+}
+
+.project-m .thumbnail-7 {
+  background-color: var(--new-car);
+}
+
+.project-m .thumbnail-8 {
+  background-color: var(--havelock-blue);
+}
+
+.project-m .thumbnail-9 {
+  background-color: var(--magic-potion);
+}
+
+.project-m .x03-pugliaengineering-improve-energy {
+  align-self: stretch;
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .thumbnail-10 {
+  background-color: var(--ship-gray);
+}
+
+.project-m .thumbnail-11 {
+  background-color: var(--eerie-black);
+}
+
+.project-m .thumbnail-12 {
+  background-color: var(--gravel);
+}
+
+.project-m .frame-68 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 150px;
+  position: relative;
+  width: 100%;
+}
+
+.project-m .frame-621 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 60px;
+  position: relative;
+}
+
+.project-m .x04-eas-water-drink-easy {
+  align-self: stretch;
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .il-business-set-comp {
+  align-self: stretch;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .thumbnail-1 {
+  background-color: var(--san-juan);
+}
+
+.project-m .thumbnail-13 {
+  background-color: var(--steel-blue);
+}
+
+.project-m .frame-68-1 {
+  gap: 150px;
+}
+
+.project-m .frame-621-4 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  gap: 60px;
+  width: 100%;
+}
+
+.project-m .x05-pot-pot-milano-luggage-easy {
+  align-self: stretch;
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .in-collaborazione-co {
+  align-self: stretch;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .thumbnail-14 {
+  background-color: var(--christine);
+}
+
+.project-m .thumbnail-15 {
+  background-color: var(--biscay);
+}
+
+.project-m .thumbnail-16 {
+  background-color: var(--crater-brown);
+}
+
+.project-m .x06-dat-x-bridge-the-gap {
+  align-self: stretch;
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .thumbnail-2 {
+  background-color: var(--ocean-blue-pearl);
+}
+
+.project-m .thumbnail-17 {
+  background-color: var(--turquoise);
+}
+
+.project-m .frame-68-3 {
+  gap: 100px;
+}
+
+.project-m .frame-621-1 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.project-m .x07-dr-lupoli-studio {
+  align-self: stretch;
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .il-logo-minimalista {
+  align-self: stretch;
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .thumbnail-18 {
+  background-color: var(--hippie-blue);
+}
+
+.project-m .thumbnail-19 {
+  background-color: var(--chambray);
+}
+
+.project-m .thumbnail-20 {
+  background-color: var(--wedgewood);
+}
+
+.project-m .x08-studio-schena-dr-bratta {
+  align-self: stretch;
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .studio-schena-una {
+  align-self: stretch;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .thumbnail-21 {
+  background-color: var(--picton-blue);
+}
+
+.project-m .thumbnail-22 {
+  background-color: var(--cream-can);
+}
+
+.project-m .thumbnail-23 {
+  background-color: var(--astral);
+}
+
+.project-m .frame-621-2 {
+  align-items: flex-start;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.project-m .x09-pigmento-feel-yout-style {
+  align-self: stretch;
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .in-collaborazione-co-1 {
+  align-self: stretch;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .thumbnail-24 {
+  background-color: var(--bastille);
+}
+
+.project-m .thumbnail-25 {
+  background-color: var(--celeste);
+}
+
+.project-m .thumbnail-26 {
+  background-color: var(--fuscous-gray);
+}
+
+.project-m .icon-nav-arrow-down-1 {
+  height: 50.67px;
+  margin-top: -6.58px;
+  position: relative;
+  width: 88.17px;
+}
+
+.project-m .x10-madame-body-cream {
+  align-self: stretch;
+  letter-spacing: -1.80px;
+  line-height: 72.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .in-occasione-del-lan {
+  align-self: stretch;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .frame-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 74px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 43px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.project-m .thumbnail-27 {
+  background-color: var(--russett);
+}
+
+.project-m .thumbnail-28 {
+  background-color: var(--just-right);
+}
+
+.project-m .thumbnail-29 {
+  background-color: var(--copper-penny);
+}
+
+.project-m .scroll-up-icon {
+  align-items: flex-start;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+.project-m .scroll-up-icon:hover {
+  transform: scale(1.1);
+}
+
+.project-m .ellipse-6 {
+  border-radius: 44px;
+  cursor: pointer;
+  height: 88px;
+  width: 88px;
+}
+
+.project-m .image {
+  height: 38px;
+  left: 22px;
+  position: absolute;
+  top: 25px;
+  width: 43px;
+}
+
+.project-m .seguimi-su {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  letter-spacing: -1.80px;
+  line-height: 58.3px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.project-m .social-frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 108px;
+  position: relative;
+}
+
+.project-m .link {
+  cursor: pointer;
+  letter-spacing: -0.90px;
+  line-height: 36.0px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.project-m .link:hover {
+  color: #181717
+}
+
+.project-m .footer {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--main-black);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 180px;
+  padding: 80px 83px;
+  position: relative;
+  width: 100%;
+}
+
+.project-m .credit {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 643px;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+.project-m .x2024-mario-pjero-all-rights-reserved {
+  flex: 1;
+  height: 20px;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.project-m .ellipse {
+  background-color: var(--main-black);
+  position: relative;
+}
+
+.project-m .frame-621-5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.project-m .frame-68-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.project-m .icon-link-3 {
+  height: 17.99px;
+  margin-left: -1.50px;
+  position: relative;
+  width: 33px;
+}
+
+.project-m .il-logo-creato-per {
+  align-self: stretch;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  position: relative;
+  text-align: center;
+}
+
+.project-m .thumbnail-30 {
+  border-radius: 225px;
+  height: 200px;
+  position: relative;
+  width: 200px;
+}
+/* screen - project-s-all-breakpoints */
+
+.project-s-all-breakpoints {
+  align-items: center;
+  background-color: var(--main-white);
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  min-width: 430px;
+  position: relative;
+}
+
+.project-s-all-breakpoints .logo-icon:hover {
+  transform: scale(1.1);
+}
+
+.project-s-all-breakpoints .line-16 {
+  margin-top: -3.00px;
+}
+
+.project-s-all-breakpoints .frame-project-s {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .frame-591 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .frame-564 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 84px;
+  justify-content: space-between;
+  padding: 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .frame-563 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 84px;
+  position: relative;
+}
+
+.project-s-all-breakpoints .my-project-1 {
+  color: var(--main-black);
+  flex: 1;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxs);
+  font-weight: 500;
+  letter-spacing: -0.54px;
+  line-height: 17.5px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 134.34px;
+}
+
+.project-s-all-breakpoints .image-1 {
+  height: 18px;
+  margin-top: -39px;
+  position: relative;
+  width: 18px;
+}
+
+.project-s-all-breakpoints .graphic-ux-ui-designer-freelance-1 {
+  color: transparent;
+  flex: 1;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  height: 111px;
+  letter-spacing: -0.54px;
+  line-height: 21.1px;
+  margin-bottom: -26.00px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+}
+
+.project-s-all-breakpoints .span0-1 {
+  color: var(--main-gray);
+  letter-spacing: -0.10px;
+}
+
+.project-s-all-breakpoints .span-3 {
+  letter-spacing: -0.10px;
+}
+
+.project-s-all-breakpoints .frame-554 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .frame-67-1 {
+  align-self: stretch;
+  gap: 60px;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .frame-67-2 {
+  align-self: stretch;
+  gap: 50px;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .frame-68-6 {
+  align-items: center;
+  flex-direction: column;
+  gap: 150px;
+}
+
+.project-s-all-breakpoints .frame-621-6 {
+  align-items: center;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .x01-di-paola-arch {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .span1-1 {
+  color: var(--main-black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-weight: 500;
+  letter-spacing: -0.10px;
+}
+
+.project-s-all-breakpoints .studio-di-paola-arch-1 {
+  align-self: stretch;
+  letter-spacing: -0.48px;
+  line-height: 18.7px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .seperator-1 {
+  align-self: stretch;
+  height: 1.5px;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .frame-7 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 350px;
+}
+
+.project-s-all-breakpoints .frame-8 {
+  align-items: flex-start;
+  border-radius: 74px;
+  display: flex;
+  gap: 10px;
+  height: 100px;
+  justify-content: center;
+  position: relative;
+  width: 350px;
+}
+
+.project-s-all-breakpoints .thumbnail-33 {
+  background-color: var(--gray);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-30 {
+  object-fit: cover;
+  width: 240px;
+}
+
+.project-s-all-breakpoints .thumbnail-34 {
+  background-color: var(--masala);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-35 {
+  background-color: var(--mine-shaft);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .frame-710-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 17px;
+  position: relative;
+}
+
+.project-s-all-breakpoints .icon-nav-arrow-down-2 {
+  height: 22.5px;
+  margin-top: -2.50px;
+  position: relative;
+  width: 40px;
+}
+
+.project-s-all-breakpoints .frame-709-1 {
+  align-items: flex-start;
+  border: 2px solid;
+  border-color: var(--main-black);
+  border-radius: 80px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  overflow: hidden;
+  padding: 15px 30px;
+  position: relative;
+}
+
+.project-s-all-breakpoints .frame-705-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.project-s-all-breakpoints .frame-704-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+}
+
+.project-s-all-breakpoints .frame-702-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 19px;
+  justify-content: center;
+  position: relative;
+}
+
+.project-s-all-breakpoints .guarda-il-progetto-c-1 {
+  cursor: pointer;
+  letter-spacing: -0.36px;
+  line-height: 14.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.project-s-all-breakpoints .span-4 {
+  letter-spacing: -0.04px;
+}
+
+.project-s-all-breakpoints .frame-6-2 {
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.project-s-all-breakpoints .ellipse-2-1 {
+  border-radius: 5.5px;
+  height: 11px;
+  width: 11px;
+}
+
+.project-s-all-breakpoints .frame-36 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .frame-5-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 150px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .frame-621-7 {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.project-s-all-breakpoints .x02-sunne-empower-the-ocean-1 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .il-logo-realizzato-p-1 {
+  align-self: stretch;
+  letter-spacing: -0.48px;
+  line-height: 18.7px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .frame-67-3 {
+  gap: 106px;
+  width: 350px;
+}
+
+.project-s-all-breakpoints .frame-6-3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .thumbnail-36 {
+  background-color: var(--persian-blue);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-37 {
+  background-color: var(--new-car);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-38 {
+  background-color: var(--havelock-blue);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-39 {
+  background-color: var(--magic-potion);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .frame-642 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .x03-pugliaengineering-improve-energy-1 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .il-logo-creato-per-p-1 {
+  align-self: stretch;
+  letter-spacing: -0.48px;
+  line-height: 18.7px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .thumbnail-40 {
+  background-color: var(--ship-gray);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-41 {
+  background-color: var(--eerie-black);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-42 {
+  background-color: var(--gravel);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .frame-626 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .frame-68-4 {
+  align-items: flex-start;
+  gap: 150px;
+}
+
+.project-s-all-breakpoints .frame-621-5 {
+  align-items: flex-start;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.project-s-all-breakpoints .x04-eas-water-drink-easy-1 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .il-business-set-comp-1 {
+  align-self: stretch;
+  letter-spacing: -0.48px;
+  line-height: 18.7px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .thumbnail-31 {
+  background-color: var(--san-juan);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-43 {
+  background-color: var(--steel-blue);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .frame-627 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .frame-68-5 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 150px;
+}
+
+.project-s-all-breakpoints .x05-pot-pot-milano-luggage-easy-1 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .thumbnail-44 {
+  background-color: var(--christine);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-45 {
+  background-color: var(--biscay);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-46 {
+  background-color: var(--crater-brown);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .frame-630 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .x06-dat-x-bridge-the-gap-1 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .il-logo-creato-per-d-1 {
+  align-self: stretch;
+  letter-spacing: -0.48px;
+  line-height: 18.7px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .thumbnail-32 {
+  background-color: var(--ocean-blue-pearl);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-47 {
+  background-color: var(--turquoise);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .frame-634 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .frame-68-7 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 100px;
+}
+
+.project-s-all-breakpoints .x07-dr-lupoli-studio-1 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .il-logo-minimalista-1 {
+  align-self: stretch;
+  letter-spacing: -0.48px;
+  line-height: 18.7px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .thumbnail-48 {
+  background-color: var(--hippie-blue);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-49 {
+  background-color: var(--chambray);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-50 {
+  background-color: var(--wedgewood);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .frame-636 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .x08-studio-schena-dr-bratta-1 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .studio-schena-una-1 {
+  align-self: stretch;
+  letter-spacing: -0.48px;
+  line-height: 18.7px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .thumbnail-51 {
+  background-color: var(--picton-blue);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-52 {
+  background-color: var(--astral);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-53 {
+  background-color: var(--cream-can);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .frame-637 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .x09-pigmento-feel-yout-style-1 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .thumbnail-54 {
+  background-color: var(--bastille);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-55 {
+  background-color: var(--celeste);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-56 {
+  background-color: var(--fuscous-gray);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .frame-640 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .x10-madame-body-cream-1 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .in-occasione-del-lan-1 {
+  align-self: stretch;
+  letter-spacing: -0.48px;
+  line-height: 18.7px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .thumbnail-57 {
+  background-color: var(--russett);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-58 {
+  background-color: var(--just-right);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .thumbnail-59 {
+  background-color: var(--copper-penny);
+  border-radius: 225px;
+  width: 100px;
+}
+
+.project-s-all-breakpoints .ellipse-2-2 {
+  border-radius: 5px;
+  height: 10px;
+  width: 10px;
+}
+
+.project-s-all-breakpoints .title-1 {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: -0.90px;
+  line-height: 29.2px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.project-s-all-breakpoints .social-frame-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 50px;
+  position: relative;
+}
+
+.project-s-all-breakpoints .link-1 {
+  cursor: pointer;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.project-s-all-breakpoints .icon-scroll-up {
+  cursor: pointer;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.project-s-all-breakpoints .footer-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--main-black);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 238px;
+  justify-content: center;
+  padding: 80px 83px;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .credit-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .x2024-mario-pjero-all-rights-reserved-1 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .ellipse-2 {
+  background-color: var(--main-black);
+  position: relative;
+}
+
+.project-s-all-breakpoints .frame-6 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.project-s-all-breakpoints .frame-621 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.project-s-all-breakpoints .frame-67 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.project-s-all-breakpoints .frame-68 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.project-s-all-breakpoints .icon-link {
+  height: 16.99px;
+  margin-left: -1.00px;
+  position: relative;
+  width: 32px;
+}
+
+.project-s-all-breakpoints .in-collaborazione-co {
+  align-self: stretch;
+  letter-spacing: -0.48px;
+  line-height: 18.7px;
+  position: relative;
+  text-align: center;
+}
+
+.project-s-all-breakpoints .thumbnail {
+  height: 100px;
+  position: relative;
+}
+@media screen and (max-width: 942px) {
+  .screen.project-m { 
+    display: none;
+   }
+  .screen.project-l { 
+    display: none;
+   }
+}
+@media screen and (min-width: 943px) and (max-width: 1509px) {
+  .screen.project-s-all-breakpoints { 
+    display: none;
+   }
+  .screen.project-l { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1510px) {
+  .screen.project-m { 
+    display: none;
+   }
+  .screen.project-s-all-breakpoints { 
+    display: none;
+   }
+}

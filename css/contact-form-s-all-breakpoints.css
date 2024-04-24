@@ -1,0 +1,262 @@
+/* screen - contact-form-l-m */
+
+.contact-form-l-m {
+  align-items: center;
+  background-color: var(--main-white);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 903px;
+  position: relative;
+}
+
+.contact-form-l-m .contact-form-l-m-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.contact-form-l-m .logo {
+  cursor: pointer;
+  height: 22px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 16.8px;
+}
+
+.contact-form-l-m .logo:hover {
+  transform: scale(1.1);
+}
+
+.contact-form-l-m .link {
+  cursor: pointer;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.contact-form-l-m .icon-mail:hover {
+  transform: scale(1.1);
+}
+
+.contact-form-l-m .breadcrumb-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 296px;
+  height: 184px;
+  justify-content: space-around;
+  padding: 0px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.contact-form-l-m .frame-600 {
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 120px;
+  width: 100%;
+}
+
+.contact-form-l-m .frame-534 {
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+}
+
+.contact-form-l-m .project {
+  cursor: pointer;
+  height: 22px;
+  position: relative;
+  width: 47px;
+}
+
+.contact-form-l-m .project-1 {
+  color: var(--main-gray);
+  cursor: pointer;
+  font-weight: 400;
+  left: 0;
+  line-height: 21.9px;
+  position: absolute;
+  text-decoration: underline;
+  top: -1px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.contact-form-l-m .project-1:hover {
+  color: #090909
+}
+
+.contact-form-l-m .text-3 {
+  color: var(--main-black);
+  font-weight: 500;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.contact-form-l-m .place {
+  letter-spacing: -0.54px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.contact-form-l-m .contact-form {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.contact-form-l-m .footer {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--main-black);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 238px;
+  justify-content: center;
+  padding: 80px 83px;
+  position: relative;
+  width: 100%;
+}
+
+.contact-form-l-m .credit {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 50px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.contact-form-l-m .x2024-mario-pjero-all-rights-reserved {
+  flex: 1;
+  letter-spacing: -0.90px;
+  line-height: 36.0px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.contact-form-l-m .frame {
+  align-items: flex-start;
+  position: relative;
+}
+/* screen - contact-form-s-all-breakpoints */
+
+.contact-form-s-all-breakpoints {
+  align-items: center;
+  background-color: var(--main-white);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 1051px;
+  justify-content: space-around;
+  min-width: 430px;
+  position: relative;
+}
+
+.contact-form-s-all-breakpoints .contact-form-s-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 1051px;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.contact-form-s-all-breakpoints .menu-sticky-contact-form-s {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--main-black);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 83px;
+  padding: 29px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.contact-form-s-all-breakpoints .logo-icon:hover {
+  transform: scale(1.1);
+}
+
+.contact-form-s-all-breakpoints .line-16 {
+  margin-top: -3.00px;
+}
+
+.contact-form-s-all-breakpoints .contact-form-1 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.contact-form-s-all-breakpoints .footer-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--main-black);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 238px;
+  justify-content: center;
+  padding: 80px 83px;
+  position: relative;
+  width: 100%;
+}
+
+.contact-form-s-all-breakpoints .credit-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.contact-form-s-all-breakpoints .x2024-mario-pjero-all-rights-reserved-1 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+@media screen and (max-width: 902px) {
+  .screen.contact-form-l-m { 
+    display: none;
+   }
+}
+@media screen and (min-width: 903px) {
+  .screen.contact-form-s-all-breakpoints { 
+    display: none;
+   }
+}

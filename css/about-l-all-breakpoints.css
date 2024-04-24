@@ -1,0 +1,1199 @@
+/* screen - about-l-all-breakpoints */
+
+.about-l-all-breakpoints {
+  align-items: center;
+  background-color: var(--main-white);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 2307px;
+  justify-content: space-around;
+  min-width: 1510px;
+  position: relative;
+}
+
+.about-l-all-breakpoints .frame-about-l {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 2307px;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.about-l-all-breakpoints .livello_1:hover {
+  transform: scale(1.1);
+}
+
+.about-l-all-breakpoints .project-2 {
+  cursor: pointer;
+  letter-spacing: -0.75px;
+  line-height: 30.0px;
+  margin-top: -1.00px;
+  position: relative;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-l-all-breakpoints .project-2:hover {
+  transform: scale(1.1);
+}
+
+.about-l-all-breakpoints .about-2 {
+  color: var(--main-white);
+  cursor: pointer;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  letter-spacing: -0.75px;
+  line-height: 30.0px;
+  margin-top: -1.00px;
+  position: relative;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-l-all-breakpoints .about-2:hover {
+  transform: scale(1.1);
+}
+
+.about-l-all-breakpoints .icon-mail-1:hover {
+  transform: scale(1.1);
+}
+
+.about-l-all-breakpoints .body-frame-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.about-l-all-breakpoints .bread-crumb-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 98px;
+  width: 100%;
+}
+
+.about-l-all-breakpoints .bread-crumb-1 {
+  display: inline-flex;
+  gap: 8px;
+}
+
+.about-l-all-breakpoints .project-3 {
+  color: var(--main-gray);
+  cursor: pointer;
+  font-weight: 400;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-l-all-breakpoints .project-3:hover {
+  color: #090909
+}
+
+.about-l-all-breakpoints .text-2-1 {
+  color: var(--main-black);
+  font-weight: 500;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-l-all-breakpoints .about-3 {
+  letter-spacing: -0.54px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-l-all-breakpoints .body-intern {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 197px;
+  position: relative;
+  width: 100%;
+}
+
+.about-l-all-breakpoints .text-photo-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 70px;
+  position: relative;
+  width: 100%;
+}
+
+.about-l-all-breakpoints .text-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 67px;
+  position: relative;
+}
+
+.about-l-all-breakpoints .h1-h2-frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 26px;
+  position: relative;
+  width: 100%;
+}
+
+.about-l-all-breakpoints .line-hey-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
+.about-l-all-breakpoints .line-1-1 {
+  height: 3px;
+  position: relative;
+  width: 131px;
+}
+
+.about-l-all-breakpoints .hey-2 {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: -1.20px;
+  line-height: 38.9px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-l-all-breakpoints .h1-1 {
+  align-self: stretch;
+  letter-spacing: -1.80px;
+  line-height: 58.3px;
+  position: relative;
+}
+
+.about-l-all-breakpoints .span0-2 {
+  letter-spacing: -1.08px;
+}
+
+.about-l-all-breakpoints .span1-2 {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: -1.08px;
+}
+
+.about-l-all-breakpoints .h2-1 {
+  align-self: stretch;
+  letter-spacing: -1.05px;
+  line-height: 34.0px;
+  position: relative;
+}
+
+.about-l-all-breakpoints .p-2 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: -0.75px;
+  line-height: 29.2px;
+  position: relative;
+}
+
+.about-l-all-breakpoints .span-2 {
+  letter-spacing: -0.19px;
+}
+
+.about-l-all-breakpoints .profile-photo-2 {
+  height: 859px;
+  object-fit: cover;
+  position: relative;
+  width: 636px;
+}
+
+.about-l-all-breakpoints .skills-software-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 140px;
+  position: relative;
+  width: 100%;
+}
+
+.about-l-all-breakpoints .skills-frame-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 38px;
+  position: relative;
+}
+
+.about-l-all-breakpoints .skills-5 {
+  letter-spacing: -0.90px;
+  line-height: 36.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-l-all-breakpoints .design-2 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 29.2px;
+  position: relative;
+}
+
+.about-l-all-breakpoints .software-frame-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 47px;
+  position: relative;
+}
+
+.about-l-all-breakpoints .software-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 47px;
+  position: relative;
+}
+
+.about-l-all-breakpoints .software-4 {
+  letter-spacing: -0.90px;
+  line-height: 36.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-l-all-breakpoints .icon-software {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.about-l-all-breakpoints .seperator-2 {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.about-l-all-breakpoints .seguimi-su-frame-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 57px;
+  position: relative;
+  width: 100%;
+}
+
+.about-l-all-breakpoints .seguimi-su-2 {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: 50px;
+  font-weight: 500;
+  letter-spacing: -1.50px;
+  line-height: 48.6px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-l-all-breakpoints .social-link {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 108px;
+  position: relative;
+}
+
+.about-l-all-breakpoints .link-3 {
+  cursor: pointer;
+  letter-spacing: -1.20px;
+  line-height: 48.0px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-l-all-breakpoints .link-3:hover {
+  color: #181717
+}
+
+.about-l-all-breakpoints .icon-scroll-uo {
+  cursor: pointer;
+  flex: 0 0 auto;
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+.about-l-all-breakpoints .icon-scroll-uo:hover {
+  transform: scale(1.1);
+}
+
+.about-l-all-breakpoints .footer-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--main-black);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 180px;
+  padding: 80px 83px;
+  position: relative;
+  width: 100%;
+}
+
+.about-l-all-breakpoints .bread-crumb {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  position: relative;
+}
+/* screen - about-m */
+
+.about-m {
+  align-items: center;
+  background-color: var(--main-white);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 3541px;
+  justify-content: space-around;
+  min-width: 834px;
+  position: relative;
+}
+
+.about-m .frame-about-m {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 3541px;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.about-m .logo {
+  cursor: pointer;
+  height: 22px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 16.8px;
+}
+
+.about-m .logo:hover {
+  transform: scale(1.1);
+}
+
+.about-m .link-1 {
+  cursor: pointer;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-m .link-1:hover {
+  transform: scale(1.1);
+}
+
+.about-m .icon-mail:hover {
+  transform: scale(1.1);
+}
+
+.about-m .body-frame-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  padding: 0px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.about-m .bread-crumb {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 98px;
+  position: relative;
+  width: 100%;
+}
+
+.about-m .frame-534 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.about-m .project {
+  cursor: pointer;
+  height: 22px;
+  position: relative;
+  width: 47px;
+}
+
+.about-m .project-1 {
+  color: var(--main-gray);
+  cursor: pointer;
+  font-weight: 400;
+  left: 0;
+  line-height: 21.9px;
+  position: absolute;
+  text-decoration: underline;
+  top: -1px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.about-m .project-1:hover {
+  color: #000000
+}
+
+.about-m .text-1 {
+  color: var(--main-black);
+  font-weight: 500;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-m .about {
+  height: 22px;
+  position: relative;
+  width: 49px;
+}
+
+.about-m .about-1 {
+  left: 0;
+  letter-spacing: -0.54px;
+  line-height: 21.9px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.about-m .body {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.about-m .text-photo-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 150px;
+  position: relative;
+  width: 100%;
+}
+
+.about-m .text-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  position: relative;
+  width: 100%;
+}
+
+.about-m .h1-h2-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 26px;
+  position: relative;
+  width: 100%;
+}
+
+.about-m .line-hey-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
+.about-m .line-15-1 {
+  height: 3px;
+  position: relative;
+  width: 131px;
+}
+
+.about-m .hey-1 {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: -1.20px;
+  line-height: 38.9px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-m .title {
+  align-self: stretch;
+  letter-spacing: -1.80px;
+  line-height: 58.3px;
+  position: relative;
+}
+
+.about-m .span0-1 {
+  letter-spacing: -1.08px;
+}
+
+.about-m .span1-1 {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: -1.08px;
+}
+
+.about-m .sono-un-grafico-ux-ui-designer {
+  align-self: stretch;
+  letter-spacing: -1.05px;
+  line-height: 34.0px;
+  position: relative;
+}
+
+.about-m .p-1 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: -0.75px;
+  line-height: 29.2px;
+  position: relative;
+}
+
+.about-m .span-1 {
+  letter-spacing: -0.19px;
+}
+
+.about-m .seperator-1 {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.about-m .photo {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.about-m .profile-photo-1 {
+  height: 956px;
+  object-fit: cover;
+  position: relative;
+  width: 666px;
+}
+
+.about-m .skills-software {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 140px;
+  position: relative;
+  width: 100%;
+}
+
+.about-m .skills-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 38px;
+  position: relative;
+  width: 100%;
+}
+
+.about-m .skills-3 {
+  letter-spacing: -0.90px;
+  line-height: 36.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-m .design-1 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 29.2px;
+  position: relative;
+  text-align: center;
+}
+
+.about-m .software-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 47px;
+  position: relative;
+  width: 100%;
+}
+
+.about-m .skills-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 47px;
+  position: relative;
+}
+
+.about-m .software-2 {
+  letter-spacing: -0.90px;
+  line-height: 36.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-m .software-icon-1 {
+  align-self: stretch;
+  height: 70px;
+  position: relative;
+  width: 100%;
+}
+
+.about-m .seguimi-su-1 {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: -1.20px;
+  line-height: 38.9px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-m .social-frame-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 108px;
+  position: relative;
+}
+
+.about-m .link-2 {
+  cursor: pointer;
+  letter-spacing: -0.90px;
+  line-height: 36.0px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-m .link-2:hover {
+  color: #181717
+}
+
+.about-m .scroll-up-icon-1 {
+  cursor: pointer;
+  flex: 0 0 auto;
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+.about-m .scroll-up-icon-1:hover {
+  transform: scale(1.1);
+}
+
+.about-m .footer-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--main-black);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 180px;
+  padding: 80px 83px;
+  position: relative;
+  width: 100%;
+}
+
+.about-m .credit-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 643px;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+.about-m .x2024-mario-pjero-all-rights-reserved-1 {
+  flex: 1;
+  height: 20px;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+/* screen - about-s */
+
+.about-s {
+  align-items: center;
+  background-color: var(--main-white);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 430px;
+  position: relative;
+}
+
+.about-s .frame-about-s {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 61px;
+  position: relative;
+  width: 100%;
+}
+
+.about-s .logo-icon:hover {
+  transform: scale(1.1);
+}
+
+.about-s .line-16 {
+  height: 3px;
+  margin-top: -3.00px;
+  position: relative;
+  width: 35px;
+}
+
+.about-s .line-1 {
+  height: 3px;
+  position: relative;
+  width: 35px;
+}
+
+.about-s .body-frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  padding: 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.about-s .body-frame-interno {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 61px;
+  position: relative;
+  width: 100%;
+}
+
+.about-s .text-photo {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 70px;
+  position: relative;
+  width: 100%;
+}
+
+.about-s .text {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  position: relative;
+  width: 100%;
+}
+
+.about-s .h1-h2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 11px;
+  position: relative;
+  width: 100%;
+}
+
+.about-s .line-hey {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
+.about-s .line-15 {
+  height: 3px;
+  position: relative;
+  width: 131px;
+}
+
+.about-s .hey {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: -1.05px;
+  line-height: 34.0px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-s .h1 {
+  align-self: stretch;
+  letter-spacing: -1.05px;
+  line-height: 34.0px;
+  position: relative;
+}
+
+.about-s .span0 {
+  letter-spacing: -0.37px;
+}
+
+.about-s .span1 {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: -0.37px;
+}
+
+.about-s .h2 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 17.5px;
+  position: relative;
+}
+
+.about-s .p {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 400;
+  letter-spacing: -0.42px;
+  line-height: 16.4px;
+  position: relative;
+}
+
+.about-s .span {
+  letter-spacing: -0.06px;
+}
+
+.about-s .seperator {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.about-s .photo-frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  margin-left: -9.00px;
+  margin-right: -9.00px;
+  position: relative;
+}
+
+.about-s .profile-photo {
+  height: 559px;
+  object-fit: cover;
+  position: relative;
+  width: 368px;
+}
+
+.about-s .skills-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+  width: 100%;
+}
+
+.about-s .skills {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+  width: 100%;
+}
+
+.about-s .skills-1 {
+  color: var(--main-black);
+  font-family: var(--font-family-inter);
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: -0.66px;
+  line-height: 26.7px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-s .design {
+  color: var(--main-black);
+  font-weight: 400;
+  line-height: 17.0px;
+  position: relative;
+  text-align: center;
+  width: 304px;
+}
+
+.about-s .software-skills {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.about-s .software {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 47px;
+  position: relative;
+}
+
+.about-s .software-1 {
+  color: var(--main-black);
+  font-family: var(--font-family-inter);
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: -0.66px;
+  line-height: 26.7px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-s .software-icon {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.about-s .seguimi-su {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: -0.90px;
+  line-height: 29.2px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-s .social-frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 50px;
+  position: relative;
+}
+
+.about-s .link {
+  cursor: pointer;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-s .scroll-up-icon {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.about-s .footer {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--main-black);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 238px;
+  justify-content: center;
+  padding: 50px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.about-s .credit {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.about-s .x2024-mario-pjero-all-rights-reserved {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+@media screen and (max-width: 833px) {
+  .screen.about-m { 
+    display: none;
+   }
+  .screen.about-l-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 834px) and (max-width: 1509px) {
+  .screen.about-s { 
+    display: none;
+   }
+  .screen.about-l-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1510px) {
+  .screen.about-s { 
+    display: none;
+   }
+  .screen.about-m { 
+    display: none;
+   }
+}

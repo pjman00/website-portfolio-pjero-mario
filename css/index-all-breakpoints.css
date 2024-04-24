@@ -1,0 +1,865 @@
+/* screen - index-all-breakpoints */
+
+.index-all-breakpoints {
+  align-items: center;
+  background-color: var(--main-white);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 1573px;
+  justify-content: space-around;
+  min-width: 1510px;
+  position: relative;
+}
+
+.index-all-breakpoints .index-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 1573px;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.index-all-breakpoints .livello_1:hover {
+  transform: scale(1.1);
+}
+
+.index-all-breakpoints .link-1 {
+  cursor: pointer;
+  letter-spacing: -0.75px;
+  line-height: 30.0px;
+  margin-top: -1.00px;
+  position: relative;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index-all-breakpoints .link-1:hover {
+  transform: scale(1.1);
+}
+
+.index-all-breakpoints .icon-mail-1:hover {
+  transform: scale(1.1);
+}
+
+.index-all-breakpoints .body-frame-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 120px;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index-all-breakpoints .logo-text-about {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 115px 115px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.index-all-breakpoints .text-about-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 62px;
+  min-width: 400px;
+  position: relative;
+}
+
+.index-all-breakpoints .h1 {
+  align-self: stretch;
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: 50px;
+  font-weight: 400;
+  letter-spacing: -1.50px;
+  line-height: 48.6px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index-all-breakpoints .span0-2 {
+  font-weight: 700;
+  letter-spacing: -0.75px;
+}
+
+.index-all-breakpoints .span1-2 {
+  font-weight: 500;
+  letter-spacing: -0.75px;
+}
+
+.index-all-breakpoints .span2-4 {
+  letter-spacing: -0.75px;
+}
+
+.index-all-breakpoints .p {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-dm_sans);
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: -0.78px;
+  line-height: 30.4px;
+  position: relative;
+}
+
+.index-all-breakpoints .span-4 {
+  letter-spacing: -0.20px;
+}
+
+.index-all-breakpoints .span-5 {
+  color: var(--main-black);
+  font-weight: 700;
+  letter-spacing: -0.20px;
+}
+
+.index-all-breakpoints .span2-5 {
+  color: var(--main-gray);
+  font-weight: 700;
+  letter-spacing: -0.20px;
+}
+
+.index-all-breakpoints .about-button-1 {
+  align-items: center;
+  background-color: var(--main-black);
+  border-radius: 24px;
+  cursor: pointer;
+  display: flex;
+  gap: 8px;
+  height: 69px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 9px 19px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 233px;
+}
+
+.index-all-breakpoints .about-button-1:hover {
+  transform: scale(1.1);
+}
+
+.index-all-breakpoints .about-2 {
+  letter-spacing: -0.90px;
+  line-height: 36.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index-all-breakpoints .logo-3 {
+  height: 580px;
+  object-fit: cover;
+  position: relative;
+  width: 580px;
+}
+
+.index-all-breakpoints .seperator-2 {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.index-all-breakpoints .cta-fossi-in-te-freccia-mail {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.index-all-breakpoints .fossi-in-te-freccia {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 16px;
+  position: relative;
+}
+
+.index-all-breakpoints .fossi-in-te-darei-un-occhiata-qui-1 {
+  cursor: pointer;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  transition: all 0.2s ease;
+  width: 325px;
+}
+
+.index-all-breakpoints .fossi-in-te-darei-un-occhiata-qui-1:hover {
+  transform: scale(1.1);
+}
+
+.index-all-breakpoints .freccia {
+  height: 21px;
+  position: relative;
+  width: 27.19px;
+}
+
+.index-all-breakpoints .mail-cta-scorpi-di-pi-1 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.index-all-breakpoints .mail {
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index-all-breakpoints .cta-scopri-di-pi {
+  color: var(--main-black);
+  cursor: pointer;
+  font-weight: 400;
+  line-height: 21.9px;
+  position: relative;
+  text-align: right;
+  text-decoration: underline;
+  transition: all 0.2s ease;
+  width: 124.63px;
+}
+
+.index-all-breakpoints .cta-scopri-di-pi:hover {
+  transform: scale(1.1);
+}
+
+.index-all-breakpoints .footer-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--main-black);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 180px;
+  justify-content: flex-end;
+  padding: 80px 83px;
+  position: relative;
+  width: 100%;
+}
+/* screen - index-m */
+
+.index-m {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 1094px;
+  justify-content: space-around;
+  min-width: 834px;
+  position: relative;
+}
+
+.index-m .index-m-frame {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--main-white);
+  display: flex;
+  flex-direction: column;
+  height: 1094px;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.index-m .logo-1 {
+  cursor: pointer;
+  height: 22px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 16.8px;
+}
+
+.index-m .logo-1:hover {
+  transform: scale(1.1);
+}
+
+.index-m .link {
+  cursor: pointer;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index-m .link:hover {
+  transform: scale(1.1);
+}
+
+.index-m .icon-mail:hover {
+  transform: scale(1.1);
+}
+
+.index-m .body-frame-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  padding: 0px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.index-m .center {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index-m .text-button-logo {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 42px 42px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.index-m .text-button-logo-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 56px 56px;
+  justify-content: center;
+  position: relative;
+}
+
+.index-m .text-about-button {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  min-width: 250px;
+  position: relative;
+}
+
+.index-m .boom-shakalaka-finalmente-un-creativ-1 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 23.3px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index-m .span0-1 {
+  letter-spacing: -0.17px;
+}
+
+.index-m .span1-1 {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: -0.17px;
+}
+
+.index-m .span2-2 {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: -0.17px;
+}
+
+.index-m .credi-che-tutto-ques-1 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  letter-spacing: -0.48px;
+  line-height: 18.7px;
+  position: relative;
+}
+
+.index-m .span-2 {
+  letter-spacing: -0.08px;
+}
+
+.index-m .span-3 {
+  color: var(--main-black);
+  font-weight: 700;
+  letter-spacing: -0.08px;
+}
+
+.index-m .span2-3 {
+  color: var(--main-gray);
+  font-weight: 700;
+  letter-spacing: -0.08px;
+}
+
+.index-m .frame-47 {
+  align-items: center;
+  background-color: var(--main-black);
+  border-radius: 24px;
+  cursor: pointer;
+  display: flex;
+  gap: 8px;
+  height: 39px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 9px 19px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 131px;
+}
+
+.index-m .frame-47:hover {
+  transform: scale(1.1);
+}
+
+.index-m .about-1 {
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index-m .logo-2 {
+  height: 352px;
+  object-fit: cover;
+  position: relative;
+  width: 352px;
+}
+
+.index-m .seperator-1 {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.index-m .cta-fossi-in-te-mail {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 96px;
+  position: relative;
+  width: 100%;
+}
+
+.index-m .cta-fossi-in-te-freccia-icon {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 16px;
+  position: relative;
+}
+
+.index-m .fossi-in-te-darei-un-occhiata-qui {
+  cursor: pointer;
+  letter-spacing: -0.66px;
+  line-height: 25.7px;
+  margin-right: -16.00px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  transition: all 0.2s ease;
+  width: 325px;
+}
+
+.index-m .fossi-in-te-darei-un-occhiata-qui:hover {
+  transform: scale(1.1);
+}
+
+.index-m .image-1 {
+  height: 21px;
+  position: relative;
+  width: 27.19px;
+}
+
+.index-m .mail-cta-scorpi-di-pi {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 16px;
+  position: relative;
+}
+
+.index-m .mariopjerodesigngmailcom-1 {
+  align-self: stretch;
+  letter-spacing: -0.66px;
+  line-height: 25.7px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+}
+
+.index-m .scopri-di-pi-1 {
+  align-self: stretch;
+  color: var(--main-black);
+  cursor: pointer;
+  font-weight: 400;
+  line-height: 21.9px;
+  position: relative;
+  text-align: right;
+  text-decoration: underline;
+  transition: all 0.2s ease;
+}
+
+.index-m .scopri-di-pi-1:hover {
+  transform: scale(1.1);
+}
+
+.index-m .footer-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--main-black);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 180px;
+  justify-content: flex-end;
+  padding: 80px 83px;
+  position: relative;
+  width: 100%;
+}
+
+.index-m .credit-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 643px;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+.index-m .x2024-mario-pjero-all-rights-reserved-1 {
+  flex: 1;
+  height: 20px;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+/* screen - index-s */
+
+.index-s {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 430px;
+  position: relative;
+}
+
+.index-s .sticky-menu-s {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--main-white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.index-s .logo-icon:hover {
+  transform: scale(1.1);
+}
+
+.index-s .line-16 {
+  margin-top: -3.00px;
+}
+
+.index-s .body-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  padding: 31px 40px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.index-s .text-about {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.index-s .boom-shakalaka-finalmente-un-creativ {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 23.3px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index-s .span0 {
+  letter-spacing: -0.17px;
+}
+
+.index-s .span1 {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: -0.17px;
+}
+
+.index-s .span2 {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: -0.17px;
+}
+
+.index-s .credi-che-tutto-ques {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 400;
+  letter-spacing: -0.42px;
+  line-height: 16.4px;
+  position: relative;
+}
+
+.index-s .span {
+  letter-spacing: -0.06px;
+}
+
+.index-s .span-1 {
+  color: var(--main-black);
+  font-weight: 700;
+  letter-spacing: -0.06px;
+}
+
+.index-s .span2-1 {
+  color: var(--main-gray);
+  font-weight: 700;
+  letter-spacing: -0.06px;
+}
+
+.index-s .about-button {
+  align-items: center;
+  background-color: var(--main-black);
+  border-radius: 24px;
+  cursor: pointer;
+  display: flex;
+  gap: 8px;
+  height: 39px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 9px 19px;
+  position: relative;
+  width: 131px;
+}
+
+.index-s .about {
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index-s .seperator {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.index-s .logo-cta {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.index-s .cta-fossi-in-te {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.index-s .fossi-in-te-darei-unocchiata-qui {
+  height: 71px;
+  letter-spacing: -0.66px;
+  line-height: 25.7px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+  width: 336px;
+}
+
+.index-s .image {
+  height: 27.19px;
+  margin-top: -53px;
+  position: relative;
+  width: 21px;
+}
+
+.index-s .logo {
+  cursor: pointer;
+  height: 336px;
+  object-fit: cover;
+  position: relative;
+  width: 336px;
+}
+
+.index-s .cta-mail {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.index-s .mariopjerodesigngmailcom {
+  letter-spacing: -0.66px;
+  line-height: 25.7px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index-s .scopri-di-pi {
+  color: var(--main-black);
+  cursor: pointer;
+  font-weight: 400;
+  line-height: 21.9px;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+  width: 124.63px;
+}
+
+.index-s .footer {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--main-black);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 238px;
+  justify-content: center;
+  padding: 80px 83px;
+  position: relative;
+  width: 100%;
+}
+
+.index-s .credit {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.index-s .x2024-mario-pjero-all-rights-reserved {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+@media screen and (max-width: 833px) {
+  .screen.index-m { 
+    display: none;
+   }
+  .screen.index-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 834px) and (max-width: 1509px) {
+  .screen.index-s { 
+    display: none;
+   }
+  .screen.index-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1510px) {
+  .screen.index-s { 
+    display: none;
+   }
+  .screen.index-m { 
+    display: none;
+   }
+}

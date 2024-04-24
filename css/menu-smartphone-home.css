@@ -1,0 +1,87 @@
+/* screen - menu-smartphone-home */
+
+.menu-smartphone-home {
+  align-items: center;
+  background-color: var(--main-black);
+  display: flex;
+  flex-direction: column;
+  gap: 70px;
+  height: 932px;
+  padding: 26px 22px;
+  position: relative;
+}
+
+.menu-smartphone-home .frame-smartphone-men-home {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 70px;
+  position: relative;
+  width: 100%;
+}
+
+.menu-smartphone-home .logo {
+  height: 49px;
+  object-fit: cover;
+  position: relative;
+  width: 37px;
+}
+
+.menu-smartphone-home .close-button {
+  height: 20px;
+  position: relative;
+  width: 22px;
+}
+
+.menu-smartphone-home .frame-center {
+  gap: 40px;
+}
+
+.menu-smartphone-home .place {
+  cursor: pointer;
+  letter-spacing: 7.20px;
+  line-height: 23.3px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 336px;
+}
+
+.menu-smartphone-home .link {
+  cursor: pointer;
+  letter-spacing: 7.20px;
+  line-height: 23.3px;
+  position: relative;
+  text-align: center;
+  width: 336px;
+}
+
+.menu-smartphone-home .seperator {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.menu-smartphone-home .x2024-mario-pjero-all-rights-reserved {
+  align-self: stretch;
+  height: 20px;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.menu-smartphone-home .frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
