@@ -1,6 +1,6 @@
-/* screen - index-all-breakpoints */
+/* screen - index */
 
-.index-all-breakpoints {
+.index {
   align-items: center;
   background-color: var(--main-white);
   display: flex;
@@ -12,7 +12,7 @@
   position: relative;
 }
 
-.index-all-breakpoints .index-frame {
+.index .index-frame {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -23,11 +23,11 @@
   width: 100%;
 }
 
-.index-all-breakpoints .livello_1:hover {
+.index .livello_1:hover {
   transform: scale(1.1);
 }
 
-.index-all-breakpoints .link-1 {
+.index .link-1 {
   cursor: pointer;
   letter-spacing: -0.75px;
   line-height: 30.0px;
@@ -38,15 +38,15 @@
   width: fit-content;
 }
 
-.index-all-breakpoints .link-1:hover {
+.index .link-1:hover {
   transform: scale(1.1);
 }
 
-.index-all-breakpoints .icon-mail-1:hover {
+.index .icon-mail-1:hover {
   transform: scale(1.1);
 }
 
-.index-all-breakpoints .body-frame-2 {
+.index .body-frame-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -58,7 +58,7 @@
   width: 100%;
 }
 
-.index-all-breakpoints .logo-text-about {
+.index .logo-text-about {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -70,7 +70,7 @@
   width: 100%;
 }
 
-.index-all-breakpoints .text-about-1 {
+.index .text-about-1 {
   align-items: flex-start;
   display: flex;
   flex: 1;
@@ -81,7 +81,7 @@
   position: relative;
 }
 
-.index-all-breakpoints .h1 {
+.index .h1 {
   align-self: stretch;
   color: var(--main-black);
   font-family: var(--font-family-dm_sans);
@@ -93,21 +93,21 @@
   position: relative;
 }
 
-.index-all-breakpoints .span0-2 {
+.index .span0-2 {
   font-weight: 700;
   letter-spacing: -0.75px;
 }
 
-.index-all-breakpoints .span1-2 {
+.index .span1-2 {
   font-weight: 500;
   letter-spacing: -0.75px;
 }
 
-.index-all-breakpoints .span2-4 {
+.index .span2-4 {
   letter-spacing: -0.75px;
 }
 
-.index-all-breakpoints .p {
+.index .p {
   align-self: stretch;
   color: transparent;
   font-family: var(--font-family-dm_sans);
@@ -118,23 +118,23 @@
   position: relative;
 }
 
-.index-all-breakpoints .span-4 {
+.index .span-4 {
   letter-spacing: -0.20px;
 }
 
-.index-all-breakpoints .span-5 {
+.index .span-5 {
   color: var(--main-black);
   font-weight: 700;
   letter-spacing: -0.20px;
 }
 
-.index-all-breakpoints .span2-5 {
+.index .span2-5 {
   color: var(--main-gray);
   font-weight: 700;
   letter-spacing: -0.20px;
 }
 
-.index-all-breakpoints .about-button-1 {
+.index .about-button-1 {
   align-items: center;
   background-color: var(--main-black);
   border-radius: 24px;
@@ -150,11 +150,11 @@
   width: 233px;
 }
 
-.index-all-breakpoints .about-button-1:hover {
+.index .about-button-1:hover {
   transform: scale(1.1);
 }
 
-.index-all-breakpoints .about-2 {
+.index .about-2 {
   letter-spacing: -0.90px;
   line-height: 36.0px;
   position: relative;
@@ -162,21 +162,21 @@
   width: fit-content;
 }
 
-.index-all-breakpoints .logo-3 {
+.index .logo-3 {
   height: 580px;
   object-fit: cover;
   position: relative;
   width: 580px;
 }
 
-.index-all-breakpoints .seperator-2 {
+.index .seperator-2 {
   align-self: stretch;
   height: 2px;
   position: relative;
   width: 100%;
 }
 
-.index-all-breakpoints .cta-fossi-in-te-freccia-mail {
+.index .cta-fossi-in-te-freccia-mail {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -186,7 +186,7 @@
   width: 100%;
 }
 
-.index-all-breakpoints .fossi-in-te-freccia {
+.index .fossi-in-te-freccia {
   align-items: flex-start;
   display: flex;
   flex: 1;
@@ -196,7 +196,7 @@
   position: relative;
 }
 
-.index-all-breakpoints .fossi-in-te-darei-un-occhiata-qui-1 {
+.index .fossi-in-te-darei-un-occhiata-qui-1 {
   cursor: pointer;
   letter-spacing: -0.96px;
   line-height: 37.4px;
@@ -207,17 +207,17 @@
   width: 325px;
 }
 
-.index-all-breakpoints .fossi-in-te-darei-un-occhiata-qui-1:hover {
+.index .fossi-in-te-darei-un-occhiata-qui-1:hover {
   transform: scale(1.1);
 }
 
-.index-all-breakpoints .freccia {
+.index .freccia {
   height: 21px;
   position: relative;
   width: 27.19px;
 }
 
-.index-all-breakpoints .mail-cta-scorpi-di-pi-1 {
+.index .mail-cta-scorpi-di-pi-1 {
   align-items: flex-end;
   display: inline-flex;
   flex: 0 0 auto;
@@ -226,7 +226,7 @@
   position: relative;
 }
 
-.index-all-breakpoints .mail {
+.index .mail {
   letter-spacing: -0.96px;
   line-height: 37.4px;
   margin-top: -1.00px;
@@ -235,7 +235,7 @@
   width: fit-content;
 }
 
-.index-all-breakpoints .cta-scopri-di-pi {
+.index .cta-scopri-di-pi {
   color: var(--main-black);
   cursor: pointer;
   font-weight: 400;
@@ -247,11 +247,11 @@
   width: 124.63px;
 }
 
-.index-all-breakpoints .cta-scopri-di-pi:hover {
+.index .cta-scopri-di-pi:hover {
   transform: scale(1.1);
 }
 
-.index-all-breakpoints .footer-2 {
+.index .footer-2 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--main-black);
@@ -843,7 +843,7 @@
   .screen.index-m { 
     display: none;
    }
-  .screen.index-all-breakpoints { 
+  .screen.index { 
     display: none;
    }
 }
@@ -851,7 +851,7 @@
   .screen.index-s { 
     display: none;
    }
-  .screen.index-all-breakpoints { 
+  .screen.index { 
     display: none;
    }
 }
